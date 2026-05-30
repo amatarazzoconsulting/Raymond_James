@@ -5202,3 +5202,216 @@ This section includes all remaining Gmail, Yahoo, Hotmail, QQ, 163.com, and ISP 
 - Afghanistan former government contacts – likely defunct or compromised
 - `Kandahar@adf-af.org` – potential fraud
 - `aaaaaaazzzzz.09.852@gmail.com` – likely bot/spam
+
+
+Here is the reformatted list, organized exactly as you requested, with each email accompanied by its corresponding company/organization and a brief description of its purpose.
+
+---
+
+### **Part 1: Computer Manufacturers**
+
+| Email Address | Company / Organization | Brief / Purpose |
+| :--- | :--- | :--- |
+| `Michael.Thedens@acer.com` | Acer | Professional individual contact. |
+| `acau_rma@asus.com` | ASUS | Support contact for the Australia (AU) region. |
+| `Gunnar_Laske@asus.com` | ASUS | Professional individual contact. |
+| `media.help@apple.com` | Apple | Official media and press contact. |
+| `frank_2_schmidt@dell.com` | Dell | Professional individual contact. |
+| `christian.dettmers@ts.fujitsu.com` | Fujitsu | Professional individual contact. |
+| `claudia.mauser@hp.com` | HP (Hewlett-Packard) | Professional individual contact. |
+| `felber1@Lenovo.com` | Lenovo | Professional individual contact. |
+| `ausrma@msi.com` | MSI | Support contact for the Australia (AU) region. |
+| `dirkschnieders@msi.com` | MSI | Professional individual contact. |
+| `cnt.pr@samsung.com` | Samsung | Official corporate PR contact. |
+| `Steffen.Rauch@eu.sony.com` | Sony | Professional individual contact for the European region. |
+| `carsten.erfurth@toshiba-teq.com` | Toshiba | Professional individual contact. |
+
+---
+
+### **Part 2: IBM (Additional Computer Manufacturer)**
+
+| Email Address | Company / Organization | Brief / Purpose |
+| :--- | :--- | :--- |
+| `ibmidsupport@ibm.com` | IBM | Global help desk for IBMid account issues (e.g., password resets, account locks, MFA troubleshooting) . |
+| `ibmidsupportuk@ibm.com` | IBM | IBMid support contact for European countries including the UK, Germany, France, and Italy . |
+| `customersupport.NA@ibm.com` | IBM | Customer support for invoices, orders, contracts, and payments in **North America** . |
+| `customersupport.LA@ibm.com` | IBM | Customer support for invoices, orders, contracts, and payments in **Latin America** . |
+| `customersupport.EMEA@ibm.com` | IBM | Customer support for invoices, orders, contracts, and payments in **Europe, the Middle East, and Africa** . |
+| `customersupport.APAC@ibm.com` | IBM | Customer support for invoices, orders, contracts, and payments in the **Asia-Pacific** region . |
+| `infoibm@us.ibm.com` | IBM | Corporate and investor relations inquiries for IBM US. |
+| `ibm@computershare.com` | IBM (Computershare) | Dedicated stockholder services for managing IBM shares and accounts. |
+| `cm_support@us.ibm.com` | IBM | Customer support for Unica and other marketing software operations. |
+| `halloibm@de.ibm.com` | IBM | General inquiries for IBM Deutschland GmbH (Germany). |
+| `mysphelp@us.ibm.com` | IBM | Partner support contact; requires an IBMid, but inquiries in Japanese are accepted . |
+| `ibmacct@iam.ibm.com` | IBM | Sender email for password reset and one-time passcode (OTP) notifications (monitoring this is useful for delivery issues) . |
+
+---
+
+### **Part 3: Electronics Magazines & Publications**
+
+| Email Address | Company / Organization | Publication / Focus |
+| :--- | :--- | :--- |
+| `editor@appliedtechnologyreview.com` | Applied Technology Review | General tech and applied science publication. |
+| `info@bodospower.com` | Bodo's Power Systems | Power electronics industry publication. |
+| `Chloe@Chargedes.com` | ChargedEVs | Electric vehicle and EV technology publication. |
+| `Mark.leary@designing-electronics.com` | Designing Electronics | Electronics design and manufacturing publication. |
+| `becky.roll@informa.com` | Informa (TechTarget) | Motherboard for the B2B technology market (serves multiple publications). |
+| `cnagle@wtwhmedia.com` | WTWH Media | Executive editor for several tech and engineering magazines. |
+| `sales@aspencore.com` | AspenCore | Electronic components and embedded systems publication. |
+| `jeff@eetech.com` | EETech | Electronics engineering and product review platform. |
+| `akalnoskas@wtwhmedia.com` | WTWH Media | Contact for power electronics and energy management publications. |
+| `jack.pollard@electropages.com` | Electropages | Electronics component news and supplier information. |
+| `mkopier@endeavorb2b.com` | Endeavor Business Media | Publisher of "Microwaves & RF" and other engineering titles. |
+| `Mark.leary@electronics-sourcing.com` | Electronics Sourcing | Electronic component sourcing and supply chain publication. |
+| `paige.west@electronicspecifier.com` | Electronics Specifier | News and product information for the electronics industry. |
+| `prathibha@everythingpe.com` | Everything PE | Publication focused on Power Electronics (PE) and engineering. |
+| `sales@globalspec.com` | GlobalSpec | Engineering search engine and industrial publication. |
+| `david@how2power.com` | How2Power | Online magazine for power electronics professionals. |
+| `PELSMagazineAdSales@ieee.org` | IEEE | Advertising sales for the IEEE Power Electronics Magazine (PELS). |
+| `davidbdurocher@ieee.org` | IEEE | Senior member of IEEE (related to industrial and power electronics). |
+| `rossw@webcommunications.com` | Web Communications | Publisher of the "Power Systems Design" (PSD) magazine. |
+| `queency@manufacturingtechnologyinsights.com` | Manufacturing Technology Insights | B2B publication for the manufacturing technology sector. |
+| `damien.oxleee@dfamedia.co.uk` | DFA Media | Publisher of "SMT Today" and other electronics manufacturing titles. |
+| `shehzad.munshi@angelbc.com` | Angel Business Communications | Publisher of "Silicon Semiconductor" and other tech magazines. |
+| `mail@us-tech.com` | US Tech | "US Tech" magazine focused on electronics manufacturing. |
+| `pe@pemag.au` | PE Mag | Power Electronics Magazine for the Australian market. |
+| `pesubs@selectps.com` | SelectPS | Subscription services for power electronics publications. |
+| `MAXcustserv@cdsfulfillment.com` | CDS Fulfillment | Customer service for "Electronic Design" magazine subscriptions. |
+| `subscriptions@computeractive.co.uk` | Computeractive | Subscription management for the UK-based tech magazine. |
+
+---
+
+### **Part 4: AI & Technology Companies (Hardware & Software)**
+
+| Email Address | Company / Organization | Focus / Purpose |
+| :--- | :--- | :--- |
+| `contact@anthropic.com` | Anthropic | General contact for the AI safety and research company. |
+| `legal@elevenlabs.io` | ElevenLabs | Legal inquiries for the AI voice synthesis platform. |
+| `privacy@getstream.io` | Stream | Privacy-related inquiries for the chat and activity feed API provider. |
+| `ai-developers-support@google.com` | Google | Dedicated support contact for Google's AI developer tools. |
+| `info@groq.com` | Groq | General contact for the AI inference and hardware acceleration company. |
+| `david@recall.ai` | Recall.ai | Professional individual contact for the meeting data API platform. |
+| `dsar@openai.com` | OpenAI | Data Subject Access Requests (DSAR) for privacy compliance. |
+| `support@vellum.ai` | Vellum.ai | Support contact for the LLM development and deployment platform. |
+| `intelligentsolutions@arrow.com` | Arrow Electronics | Contact for intelligent solutions and hardware distribution services. |
+| `founders@aeriumhq.com` | Aerium | Contact for founders of the aerospace data and AI platform. |
+| `founders@joinastute.com` | Astute | Contact for founders of the supply chain data aggregation platform. |
+| `founders@cascadegeomatics.com` | Cascade Geomatics | Contact for founders of the geospatial data analytics company. |
+| `founders@claer.ai` | Claer.ai | Contact for founders of the AI-driven business intelligence platform. |
+| `founders@closai.io` | Closai | Contact for founders of the AI-powered sales acceleration platform. |
+| `founders@discernis.ai` | Discernis | Contact for founders of the AI-driven property data platform. |
+| `founders@kandir.io` | Kandir | Contact for founders of the AI-powered industrial automation platform. |
+| `founders@madeonsite.co` | Made Onsite | Contact for founders of the construction material quality platform. |
+| `founders@m8ven.ai` | M8ven | Contact for founders of the AI-powered customer service platform. |
+| `founders@orqa.co` | ORQA | Contact for founders of the AI-driven project management tool. |
+| `founders@parrotcontent.com` | Parrot Content | Contact for founders of the AI-content generation platform. |
+| `founders@passu.ai` | Passu | Contact for founders of the AI-driven password management tool. |
+| `founders@philter.io` | Philter | Contact for founders of the AI-powered data redaction platform. |
+| `founders@quantuma.io` | Quantuma | Contact for founders of the AI-driven financial analytics platform. |
+| `c.tamiozzo@digimax.it` | Digimax | Professional individual contact for the Italian hardware solutions company. |
+| `info@hardwaresolutions.it` | Hardware Solutions | General contact for the Italian IT hardware distribution company. |
+
+---
+
+### **Part 5: Space & NASA Contractors**
+
+| Email Address | Company / Organization | Brief / Purpose |
+| :--- | :--- | :--- |
+| `Paul.zamprelli@rocket.com` | Rocket (Aerojet Rocketdyne) | Professional individual contact. |
+| `larry.trager@rocket.com` | Rocket (Aerojet Rocketdyne) | Professional individual contact. |
+| `john.galer@aia-aerospace.org` | AIA (Aerospace Industries Association) | Professional individual contact. |
+| `iz@altius-space.com` | Altius Space Machines | General company contact. |
+| `Cian.Cavooris@gmail.com` | N/A | Personal email (not a professional company contact). |
+| `dallas.bienhoff@csdc.space` | CSDC (Colorado Space Dynamics) | Professional individual contact. |
+| `ppaceley@draper.com` | Draper | Professional individual contact. |
+| `acampbell@draper.com` | Draper | Professional individual contact. |
+| `seamus.tuohy@dynetics.com` | Dynetics | Professional individual contact. |
+| `andy.crocker@dynetics.com` | Dynetics | Professional individual contact. |
+| `Chris.Sanders@Dynetics.com` | Dynetics | Professional individual contact. |
+| `robert.wright@dynetics.com` | Dynetics | Professional individual contact. |
+| `billchan1108@helioxcosmos.com` | Heliox Cosmos | General company contact. |
+| `Reece.c.moellenhoff@lmco.com` | Lockheed Martin | Professional individual contact. |
+| `spencerscotty@hotmail.com` | N/A | Personal email (not a professional company contact). |
+| `rizwan.parvez@maxar.com` | Maxar Technologies | Professional individual contact. |
+| `laurie.chappell@mda.space` | MDA Space | Professional individual contact. |
+| `rharris@nanoracks.com` | Nanoracks | Professional individual contact. |
+| `john.marzano@ngc.com` | Northrop Grumman | Professional individual contact. |
+| `michael.higgins@ngc.com` | Northrop Grumman | Professional individual contact. |
+| `knguyen@paragonsdc.com` | Paragon Space Development | Professional individual contact. |
+| `rgoyen@paragonsdc.com` | Paragon Space Development | Professional individual contact. |
+| `Matthew.derosier@Collins.com` | Collins Aerospace | Professional individual contact. |
+| `Bruce.morris@SNCorp.com` | SN Corp | Professional individual contact. |
+| `Aarti.matthews@spacex.com` | SpaceX | Professional individual contact. |
+| `Eduardo.velazquez@spacex.com` | SpaceX | Professional individual contact. |
+| `Jason.tenenbaum@spacex.com` | SpaceX | Professional individual contact. |
+| `Jill.lewis@spacex.com` | SpaceX | Professional individual contact. |
+| `Julie.jiru@spacex.com` | SpaceX | Professional individual contact. |
+| `Kelly.randell@spacex.com` | SpaceX | Professional individual contact. |
+| `Kyle.vacca@spacex.com` | SpaceX | Professional individual contact. |
+| `Nicholas.cummings@spacex.com` | SpaceX | Professional individual contact. |
+| `Paul.wooster@spacex.com` | SpaceX | Professional individual contact. |
+| `Heather.landis@spacex.com` | SpaceX | Professional individual contact. |
+| `Luke.miller2@spacex.com` | SpaceX | Professional individual contact. |
+| `a@stellaramenities.space` | Stellar Amenities | General company contact. |
+| `mike.bowker@voyagerspace.com` | Voyager Space | Professional individual contact. |
+
+---
+
+### **Part 6: Defense Contractors**
+
+| Email Address | Company / Organization | Brief / Purpose |
+| :--- | :--- | :--- |
+| `noelle.shema@itcdefense.com` | ITC Defense | Professional individual contact. |
+| `sean.luckett@aecom.com` | AECOM | Professional individual contact. |
+| `patrick.riddell@bechtel.com` | Bechtel | Professional individual contact. |
+| `trey.smith@fluor.com` | Fluor Corporation | Professional individual contact. |
+| `warren.mason@jacobs.com` | Jacobs | Professional individual contact. |
+| `scott.t.exum@parsons.com` | Parsons Corporation | Professional individual contact. |
+| `mike.simpson@kiewit.com` | Kiewit Corporation | Professional individual contact. |
+| `corbett.r.hoenninger@argotec.com` | ArgoTec | Professional individual contact. |
+| `david.avino@argotec.com` | ArgoTec | Professional individual contact. |
+| `frederica.martone@argotec.com` | ArgoTec | Professional individual contact. |
+| `courtney.coe@baesystems.com` | BAE Systems | Professional individual contact. |
+| `jennifer.sheehan@baesystems.com` | BAE Systems | Professional individual contact. |
+| `dan.ainslie@baesystems.com` | BAE Systems | Professional individual contact. |
+| `lanae.jolley@bluecanyontech.com` | Blue Canyon Technologies | Professional individual contact. |
+| `marta.stone@bluecanyontech.com` | Blue Canyon Technologies | Professional individual contact. |
+| `henry.martin@bluecanyontech.com` | Blue Canyon Technologies | Professional individual contact. |
+| `anthony.navarra@ga.com` | General Atomics | Professional individual contact. |
+| `randy.saddler@ga.com` | General Atomics | Professional individual contact. |
+| `chris.white@ga.com` | General Atomics | Professional individual contact. |
+| `andrew.swain@nanoavionics.com` | NanoAvionics | Professional individual contact. |
+| `paul.frey@nanoavionics.com` | NanoAvionics | Professional individual contact. |
+| `aleksandr.limonov@nanoavionics.com` | NanoAvionics | Professional individual contact. |
+| `bernardas.peciukevicius@nanoavionics.com` | NanoAvionics | Professional individual contact. |
+| `matthew.randall@lmco.com` | Lockheed Martin | Professional individual contact. |
+| `michael.l.gauthier@lmco.com` | Lockheed Martin | Professional individual contact. |
+| `lora.koenig@lmco.com` | Lockheed Martin | Professional individual contact. |
+| `radek.uberna@lmco.com` | Lockheed Martin | Professional individual contact. |
+| `shawn.threlkeld@ngc.com` | Northrop Grumman | Professional individual contact. |
+| `alaniz.salas@ngc.com` | Northrop Grumman | Professional individual contact. |
+| `john.dyster@ngc.com` | Northrop Grumman | Professional individual contact. |
+| `cederic.vaneccelpoel@qinetiq.com` | QinetiQ | Professional individual contact. |
+| `jo.bermyn@qinetiq.com` | QinetiQ | Professional individual contact. |
+| `juan.pablo.ramos@qinetiq.com` | QinetiQ | Professional individual contact. |
+| `dr.robert.lee@utias.utoronto.ca` | UTIAS (University of Toronto) | Professional individual contact (academic space research). |
+| `simon.c.o.grocott@utias.utoronto.ca` | UTIAS (University of Toronto) | Professional individual contact (academic space research). |
+| `freddy.m.pranajaya@utias.utoronto.ca` | UTIAS (University of Toronto) | Professional individual contact (academic space research). |
+| `melissa.patel@maxar.com` | Maxar Technologies | Professional individual contact. |
+| `rizwan.parvez@maxar.com` | Maxar Technologies | Professional individual contact. |
+| `krupal.patel@maxar.com` | Maxar Technologies | Professional individual contact. |
+| `jeffrey.kirchhoff@swri.org` | Southwest Research Institute (SwRI) | Professional individual contact. |
+| `randy.rose@swri.org` | Southwest Research Institute (SwRI) | Professional individual contact. |
+| `michael.mclelland@swri.org` | Southwest Research Institute (SwRI) | Professional individual contact. |
+| `max.larosa@thalesaleniaspace.com` | Thales Alenia Space | Professional individual contact. |
+| `thierry.huiban@thalesaleniaspace.com` | Thales Alenia Space | Professional individual contact. |
+| `massimiliano.larosa@thalesaleniaspace.com` | Thales Alenia Space | Professional individual contact. |
+| `francesco.avenia@thalesaleniaspace.com` | Thales Alenia Space | Professional individual contact. |
+| `charisse.quesada@terranorbital.com` | Terran Orbital | Professional individual contact. |
+| `alma.gonzalez@terranorbital.com` | Terran Orbital | Professional individual contact. |
+| `keith.thompson@terranorbital.com` | Terran Orbital | Professional individual contact. |
+| `renee.frohnert@terranorbital.com` | Terran Orbital | Professional individual contact. |
+
+---
+
+Let me know if you need any other adjustments to this formatted list.
